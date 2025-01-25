@@ -1,0 +1,1 @@
+Meet my first C++ project on data structure course which was all about using data structure concepts with file handling in C++. In this project I tried to use what I have learned into a real time problem of hospital management 
